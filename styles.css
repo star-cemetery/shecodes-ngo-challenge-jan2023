@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap");
+body {
+  font-family: "Luxurious Roman", cursive;
+  background-image: linear-gradient(to right, #ddc595, #647070);
+}
+.intro {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.title {
+  position: absolute;
+  font-size: 40px;
+  color: rgb(235, 228, 228);
+  top: 0;
+  margin: 0;
+  padding: 40px;
+  display: block;
+  background-color: transparent;
+}
+.logo {
+  display: block;
+}
+.main {
+  font-size: 25px;
+  color: rgb(27, 26, 26);
+}
+.main-2 {
+  font-size: 25px;
+  color: #decba4;
+}
+.main-3 {
+  font-size: 25px;
+  color: #fcfbf9;
+}
+.main-4 {
+  font-size: 20px;
+  color: #2e302f;
+}
+.main-5 {
+  font-size: 25px;
+  color: #fcfbf9;
+}
+#more {
+  display: none;
+  font-size: 20px;
+  color: #faf9f8;
+}
+#myBtn {
+  margin: 20px;
+  padding: 10px;
+  margin: 10%;
+  text-align: center;
+  background-image: linear-gradient(
+    to right,
+    #ddcaa3,
+    #ebae98,
+    #fab542,
+    #667271
+  );
+  box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
+}
+.site-button {
+  margin: 20px;
+  padding: 10px;
+  margin: 10%;
+  text-align: center;
+  background-image: linear-gradient(
+    to right,
+    #ddcaa3,
+    #ebae98,
+    #fab542,
+    #667271
+  );
+  box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
+}
